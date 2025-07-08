@@ -15,10 +15,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.tuempresa.riegomesh"
+      "bundleIdentifier": com.eqsi.eqsi-win"
     },
     "android": {
-      "package": "com.tuempresa.riegomesh",
+      "package": "com.eqsi.eqsi-win",
       "permissions": [
         "BLUETOOTH",
         "BLUETOOTH_SCAN",
